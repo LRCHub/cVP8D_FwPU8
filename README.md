@@ -1,0 +1,148 @@
+# NOMA – Brain Power (Long Version)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.00] 🎶
+[00:01.60] Are you rea-e-e-e-e-e-e-... ?
+[00:24.33] Are you rea-e-e-e-e-e-e-... ?
+[00:38.83] 
+[00:47.26] Adrenaline is pumping
+[00:49.86] Adrenaline is pumping
+[00:52.39] Generator
+[00:54.82] Automatic Lover
+[00:58.38] Atomic
+[00:59.88] Atomic
+[01:01.16] Overdrive
+[01:03.33] Blockbuster
+[01:06.43] Brain Power
+[01:10.05] Call me a leader
+[01:11.88] Cocaine
+[01:15.35] Don't you try it
+[01:16.99] Don't you try it
+[01:20.68] Innovator
+[01:23.13] Killer machine
+[01:26.26] There's no fate
+[01:28.80] Take control
+[01:31.67] Brain Power
+[01:33.68] Let the bass kick !
+[01:35.11] O-oooooooooo
+[01:36.45] AAAAE-A-A-I-A-U-
+[01:37.85] JO-oooooooooooo
+[01:39.24] AAE-O-A-A-U-U-A-
+[01:40.60] E-eee-ee-eee
+[01:41.97] AAAAE-A-E-I-E-A-
+[01:43.40] JO-ooo-oo-oo-oo
+[01:44.85] EEEEO-A-AAA-AAAA
+[01:46.14] O-oooooooooo
+[01:47.56] AAAAE-A-A-I-A-U-
+[01:48.91] JO-oooooooooooo
+[01:50.32] AAE-O-A-A-U-U-A-
+[01:51.64] E-eee-ee-eee
+[01:53.04] AAAAE-A-E-I-E-A-
+[01:54.36] JO-ooo-oo-oo-oo
+[01:55.84] EEEEO-A-AAA-AAAA
+[01:57.32] O-oooooooooo
+[01:58.68] AAAAE-A-A-I-A-U-
+[02:00.04] JO-oooooooooooo
+[02:01.40] AAE-O-A-A-U-U-A-
+[02:02.81] E-eee-ee-eee
+[02:04.20] AAAAE-A-E-I-E-A-
+[02:05.59] JO-ooo-oo-oo-oo
+[02:07.03] EEEEO-A-AAA-AAAA-O----------
+[02:11.22] 🎶
+[02:19.61] Adrenaline is pumping
+[02:22.37] Adrenaline is pumping
+[02:24.90] Generator
+[02:27.65] Automatic Lover
+[02:30.95] Atomic
+[02:32.35] Atomic
+[02:33.97] Overdrive
+[02:35.97] Blockbuster
+[02:39.14] Brain Power
+[02:42.67] Call me a leader
+[02:44.47] Cocaine
+[02:48.08] Don't you try it
+[02:50.03] Don't you try it
+[02:53.33] Innovator
+[02:55.58] Killer machine
+[02:58.96] There's no fate
+[03:01.32] Take control
+[03:04.17] Brain Power
+[03:06.12] Let the bass kick !
+[03:07.62] O-oooooooooo
+[03:08.93] AAAAE-A-A-I-A-U-
+[03:10.30] JO-oooooooooooo
+[03:11.67] AAE-O-A-A-U-U-A-
+[03:13.09] E-eee-ee-eee
+[03:14.50] AAAAE-A-E-I-E-A-
+[03:15.83] JO-ooo-oo-oo-oo
+[03:17.26] EEEEO-A-AAA-AAAA
+[03:18.61] O-oooooooooo
+[03:20.02] AAAAE-A-A-I-A-U-
+[03:21.48] JO-oooooooooooo
+[03:22.84] AAE-O-A-A-U-U-A-
+[03:24.20] E-eee-ee-eee
+[03:25.65] AAAAE-A-E-I-E-A-
+[03:27.05] JO-ooo-oo-oo-oo
+[03:28.32] EEEEO-A-AAA-AAAA
+[03:29.73] O-oooooooooo
+[03:31.09] AAAAE-A-A-I-A-U-
+[03:32.48] JO-oooooooooooo
+[03:33.89] AAE-O-A-A-U-U-A-
+[03:35.25] E-eee-ee-eee
+[03:36.60] AAAAE-A-E-I-E-A-
+[03:38.05] JO-ooo-oo-oo-oo
+[03:39.33] EEEEO-A-AAA-AAAA-O----------
+[03:53.33] 
+[03:50.62] AAAAE-A-E-I-E-A-
+[03:58.62] 
+[04:01.67] AAE-O-A-A-U-U-A-
+[04:09.67] 
+[04:12.74] AAAAE-A-E-I-E-A-
+[04:20.74] 
+[04:23.96] Let the bass kick !
+[04:33.46] 
+[04:34.93] AAAAE-A-E-I-E-A-
+[04:42.93] 
+[04:46.05] AAE-O-A-A-U-U-A-
+[04:54.05] 
+[04:57.13] AAAAE-A-E-I-E-A-
+[05:05.13] 
+[05:09.80] Let the bass kick !
+[05:11.06] O-oooooooooo
+[05:12.33] AAAAE-A-A-I-A-U-
+[05:13.74] JO-oooooooooooo
+[05:15.14] AAE-O-A-A-U-U-A-
+[05:16.50] E-eee-ee-eee
+[05:17.94] AAAAE-A-E-I-E-A-
+[05:19.29] JO-ooo-oo-oo-oo
+[05:20.69] EEEEO-A-AAA-AAAA
+[05:22.06] O-oooooooooo
+[05:23.55] AAAAE-A-A-I-A-U-
+[05:24.81] JO-oooooooooooo
+[05:26.17] AAE-O-A-A-U-U-A-
+[05:27.63] E-eee-ee-eee
+[05:29.06] AAAAE-A-E-I-E-A-
+[05:30.46] JO-ooo-oo-oo-oo
+[05:31.82] EEEEO-A-AAA-AAAA
+[05:32.93] O-oooooooooo
+[05:34.49] AAAAE-A-A-I-A-U-
+[05:35.89] JO-oooooooooooo
+[05:37.25] AAE-O-A-A-U-U-A-
+[05:38.74] E-eee-ee-eee
+[05:40.10] AAAAE-A-E-I-E-A-
+[05:41.50] JO-ooo-oo-oo-oo
+[05:42.62] EEEEO-A-AAA-AAAA-
+[05:44.27] O-oooooooooo
+[05:45.63] AAAAE-A-A-I-A-U-
+[05:47.07] JO-oooooooooooo
+[05:48.43] AAE-O-A-A-U-U-A-
+[05:49.54] E-eee-ee-eee
+[05:51.07] AAAAE-A-E-I-E-A-
+[05:52.60] JO-ooo-oo-oo-oo
+[05:54.04] EO-A-
+[05:54.85] EO-A-
+[05:55.53] EO-A-I-E-A-
+[05:56.77] JO----------
+```
