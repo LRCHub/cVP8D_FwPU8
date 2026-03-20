@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Brain Power (Long Version)",
+  "base_artist": "NOMA",
+  "createdAt": "2026-03-20T12:01:04.589422Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brain Power - Long Version",
+      "artist": "Noma",
+      "has_synced": true,
+      "path": "select/01_Brain_Power_-_Long_Version_Noma.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brain Power (Long Version)",
+      "artist": "NOMA",
+      "has_synced": true,
+      "path": "select/02_Brain_Power_(Long_Version)_NOMA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brain Power Long Version",
+      "artist": "ノマ",
+      "has_synced": true,
+      "path": "select/03_Brain_Power_Long_Version_ノマ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brain Power Long Kick",
+      "artist": "ノマ",
+      "has_synced": true,
+      "path": "select/04_Brain_Power_Long_Kick_ノマ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Brain Power Long Bass",
+      "artist": "ノマ",
+      "has_synced": true,
+      "path": "select/05_Brain_Power_Long_Bass_ノマ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Brain Power Long SD",
+      "artist": "ノマ",
+      "has_synced": true,
+      "path": "select/06_Brain_Power_Long_SD_ノマ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Brain Power Long Vocoder",
+      "artist": "ノマ",
+      "has_synced": true,
+      "path": "select/07_Brain_Power_Long_Vocoder_ノマ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Brain Power Long Vocal",
+      "artist": "ノマ",
+      "has_synced": true,
+      "path": "select/08_Brain_Power_Long_Vocal_ノマ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Brain Power (Long Version)",
+      "artist": "Noma",
+      "has_synced": true,
+      "path": "select/09_Brain_Power_(Long_Version)_Noma.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Brain Power Long Version Off Vocal",
+      "artist": "ノマ",
+      "has_synced": true,
+      "path": "select/10_Brain_Power_Long_Version_Off_Vocal_ノマ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Brain Power Long SD",
+      "artist": "NOMA",
+      "has_synced": false,
+      "path": "select/11_Brain_Power_Long_SD_NOMA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brain Power (Long Version)",
+      "artist": "NOMA",
+      "has_synced": false,
+      "path": "select/pl_01_Brain_Power_(Long_Version)_NOMA.txt"
+    }
+  ]
+}
